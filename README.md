@@ -13,7 +13,7 @@
     <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" alt="MIT license">
   </a>
     <a href="https://github.com/setsu0596/Kanji_Only/blob/main/README_zh.md">
-    <img src="https://img.shields.io/badge/%E5%89%8D_%E5%BE%80-%E4%B8%AD_%E6%96%87-blue" alt="MIT license">
+    <img src="https://img.shields.io/badge/%E5%89%8D_%E5%BE%80-%E4%B8%AD_%E6%96%87-red" alt="MIT license">
   </a>
 </p>
 
