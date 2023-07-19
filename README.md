@@ -30,7 +30,7 @@
 
 ## 使用方法
 
-https://github.com/setsu0596/Kanji_Only/assets/139847670/ea48f0ad-3116-4d58-b721-55b60c22757c
+https://github.com/setsu0596/Kanji_Only/assets/139847670/5d7ef443-422b-4b78-bacb-8a8ef7dd1389
 
 1. 文字列を選択します。
 2. 右クリックして「偽中国語」を選択します。
