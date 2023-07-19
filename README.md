@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username/project/">
+  </a>
+    <a href="https://github.com/setsu0596/Kanji_Only/blob/main/README_zh.md">
+    <img src="https://img.shields.io/badge/%E5%89%8D_%E5%BE%80-%E4%B8%AD_%E6%96%87-red" alt="MIT license">
+  </a>  <a href="https://github.com/username/project/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
   </a>
   <a href="https://github.com/username/project/">
     <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" alt="MIT license">
-  </a>
-    <a href="https://github.com/setsu0596/Kanji_Only/blob/main/README_zh.md">
-    <img src="https://img.shields.io/badge/%E5%89%8D_%E5%BE%80-%E4%B8%AD_%E6%96%87-red" alt="MIT license">
-  </a>
+
 </p>
 
 このブラウザ拡張機能は、Hayo AIを使用して作成された簡易な拡張機能です。この拡張機能は学習の参考にのみ使用することを推奨します。 
